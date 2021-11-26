@@ -17,4 +17,7 @@
          that should also be considered platform signatures. -->
     <java-symbol type="array" name="config_googlePlatformSignatures" />
 
+    <!-- Whether to cleanup fingerprints upon connection to the daemon and when user switches -->
+    <java-symbol type="bool" name="config_cleanupUnusedFingerprints" />
+
 </resources>
