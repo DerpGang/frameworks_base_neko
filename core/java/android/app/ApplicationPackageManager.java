@@ -861,6 +861,8 @@ public class ApplicationPackageManager extends PackageManager {
             "com.google.photos.trust_debug_certs",
             "com.google.android.feature.AER_OPTIMIZED",
             "com.google.android.feature.NEXT_GENERATION_ASSISTANT",
+            "com.google.android.feature.ADAPTIVE_CHARGING",
+            "com.google.android.feature.DREAMLINER",
             "android.software.game_service",
             "com.google.android.feature.EXCHANGE_6_2",
             "com.google.android.apps.dialer.call_recording_audio",
@@ -868,15 +870,13 @@ public class ApplicationPackageManager extends PackageManager {
     };
 
     private static final String[] featuresTensor = {
-            "com.google.android.feature.PIXEL_2025_EXPERIENCE",
-            "com.google.android.feature.PIXEL_2025_MIDYEAR_EXPERIENCE",
-            "com.google.android.feature.PIXEL_2024_EXPERIENCE",
-            "com.google.android.feature.PIXEL_2024_MIDYEAR_EXPERIENCE",
-            "com.google.android.feature.PIXEL_2023_EXPERIENCE",
-            "com.google.android.feature.PIXEL_2023_MIDYEAR_EXPERIENCE",
+            "com.google.android.feature.PIXEL_2021_EXPERIENCE",
             "com.google.android.feature.PIXEL_2022_EXPERIENCE",
             "com.google.android.feature.PIXEL_2022_MIDYEAR_EXPERIENCE",
-            "com.google.android.feature.PIXEL_2021_EXPERIENCE"
+            "com.google.android.feature.PIXEL_2023_EXPERIENCE",
+            "com.google.android.feature.PIXEL_2023_MIDYEAR_EXPERIENCE",
+            "com.google.android.feature.PIXEL_2024_EXPERIENCE",
+            "com.google.android.feature.PIXEL_2024_MIDYEAR_EXPERIENCE",
     };
 
     private static final String[] featuresNexus = {
